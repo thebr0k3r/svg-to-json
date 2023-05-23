@@ -1,0 +1,12 @@
+{
+  "name": "svg-to-json",
+  "license": "MIT",
+  "description": "SVG TO JSON SCRIPT",
+  "author": "br0k3r",
+  "version": "0.0.1",
+  "repository": {
+  },
+  "dependencies": {
+    "svgson": "^5.2.1"
+  }
+}
