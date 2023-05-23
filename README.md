@@ -2,5 +2,5 @@
 
 run:
 
-    node svg-to-json ./svg
+    node svg-to-json ./icon.svg
 
