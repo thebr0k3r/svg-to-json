@@ -5,6 +5,8 @@
   "author": "br0k3r",
   "version": "0.0.1",
   "repository": {
+    "url": "https://github.com/thebr0k3r/svg-to-json.git",
+    "type": "git"
   },
   "dependencies": {
     "svgson": "^5.2.1"
