@@ -1,5 +1,4 @@
 # svg-to-json
-----
 
 run:
 
